@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Terenz
+# 👋 Hi, I'm Can
 
 ## 🚀 About Me
 - 🎮 Game Developer (Unity & C#)
